@@ -15,4 +15,4 @@ if (member.guild.id === "Your server id here") { //enable your developer mode in
 
 client.login("your top secret token here..")
 
-//Made by 365 ɢᴀᴍɪɴɢ ɴ ᴍᴏʀᴇ_2.0#6766 DONOT share without credits!!
+//Made by Python✌#5013
