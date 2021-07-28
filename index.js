@@ -2,7 +2,7 @@ let Discord = require("discord.js");
 let client = new Discord.Client();
 
 client.on("ready", () => {
-  client.user.setPresence({ activity: { name: "Listening to Discord Tricks"}}) //this is the bot status code..
+  client.user.setPresence({ activity: { name: "Listening to Python Creations"}}) //this is the bot status code..
 })
 
 client.on("guildMemberAdd", member => {
